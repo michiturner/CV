@@ -1,0 +1,41 @@
+/* Estilos para el encabezado */
+body {
+    font-family: Verdana;
+  }
+  header, section {
+    width: 960px;
+    margin: 0 auto;
+  }
+  header {
+      background-color:bisque;
+      padding: 30px; 
+    text-align: center;
+     
+    }
+  
+  section {
+    display: flex;
+  }
+  article {
+    width: 60%;
+  }
+  ul {
+    list-style-type: disc;
+  }
+  /* Estilo para la imagen */
+  img {
+      width: 200px;
+      height: 200px;
+      border-radius: 50%;
+      border: 4px solid white;
+      margin-right: 16px;
+    }
+  
+    header h1 {
+      font-size: 36px;
+    }
+    header h2 {
+      font-size: 20px;
+      color:#000;
+    }
+    
